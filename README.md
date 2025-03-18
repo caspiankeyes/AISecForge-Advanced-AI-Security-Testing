@@ -36,7 +36,7 @@ LLMSecForge/
     └── templates/
 ```
 
-# LLMSecForge: Advanced Framework for AI Model Security Testing
+# LLMSecForge: Advanced Framework for AI Security Testing
 
 ![License](https://img.shields.io/badge/license-Apache--2.0-blue.svg)
 ![Version](https://img.shields.io/badge/version-1.0.0-green.svg)
