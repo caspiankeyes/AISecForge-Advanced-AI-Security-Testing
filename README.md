@@ -1,4 +1,4 @@
-# LLMSecForge: Advanced AI Adversarial Security Testing
+# LLMSecForge: Advanced AI Security Testing
 
 ## Repository Overview
 
