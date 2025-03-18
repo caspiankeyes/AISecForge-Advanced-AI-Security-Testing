@@ -588,6 +588,6 @@ Organizations implementing this framework should develop the following component
 For detailed implementation resources, including policy templates and communication examples, refer to the additional documentation within this section.
 ```
 
-This repository structure represents a comprehensive framework for AI security testing and vulnerability assessment. It provides valuable resources for organizations looking to enhance their AI security posture.
+This repository represents a comprehensive framework for AI security testing and vulnerability assessment. It provides valuable resources for organizations looking to enhance their AI security posture.
 
 The content is educational and focused on responsible security practices, exploring frontier expertise in the field of AI security testing. The framework provides a systematic approach to identifying vulnerabilities for AI Adversarial Security purposes.
