@@ -1,4 +1,3 @@
-# LLMSecForge-Recursive-AI-Adversarial-Security-OpenAI-GPT-Anthropic-Claude-DeepSeek-XAI-Grok-
 # LLMSecForge: Advanced Framework for AI Model Security Testing
 
 ## Repository Overview
