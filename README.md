@@ -1,4 +1,4 @@
-# LLMSecForge: Advanced Framework for AI Model Security Testing
+# LLMSecForge: Advanced AI Model Security Testing
 
 ## Repository Overview
 
