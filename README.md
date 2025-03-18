@@ -40,7 +40,7 @@ LLMSecForge/
 
 # LLMSecForge: Advanced Framework for AI Model Security Testing
 
-![License](https://img.shields.io/badge/license-APACHE-blue.svg)
+![License](https://img.shields.io/badge/license-Apache-2.0-blue.svg)
 ![Version](https://img.shields.io/badge/version-1.0.0-green.svg)
 ![Status](https://img.shields.io/badge/status-active-brightgreen.svg)
 
