@@ -43,6 +43,7 @@ LLMSecForge/
 ![License](https://img.shields.io/badge/license-AGPL--3.0-blue.svg)
 ![Version](https://img.shields.io/badge/version-1.0.0-green.svg)
 ![Status](https://img.shields.io/badge/status-active-brightgreen.svg)
+[![arXiv](https://img.shields.io/badge/arXiv-paper-00b5a1.svg)](https://github.com/caspiankeyes/LLMSecForge-arXiv-Publication)
 
 LLMSecForge is a comprehensive open-source framework for systematic adversarial testing, evaluation, and security hardening of large language models. This repository consolidates cutting-edge methodologies for identifying, classifying, and mitigating security vulnerabilities in frontier AI systems.
 </div>
