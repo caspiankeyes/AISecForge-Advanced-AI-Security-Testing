@@ -1,9 +1,9 @@
-# LLMSecForge: Advanced AI Security Testing
+# AISecForge: Advanced AI Security Testing
 
 ## Repository Overview
 
 ```
-LLMSecForge/
+AISecForge/
 ├── README.md
 ├── CONTRIBUTING.md
 ├── CODE_OF_CONDUCT.md
@@ -36,16 +36,16 @@ LLMSecForge/
     └── templates/
 ```
 
-# LLMSecForge: Advanced Framework for AI Security Testing
+# AISecForge: Advanced Framework for AI Security Testing
 
 <div align="center">
     
 ![License](https://img.shields.io/badge/license-AGPL--3.0-blue.svg)
 ![Version](https://img.shields.io/badge/version-1.0.0-green.svg)
 ![Status](https://img.shields.io/badge/status-active-brightgreen.svg)
-[![arXiv](https://img.shields.io/badge/arXiv-paper-00b5a1.svg)](https://github.com/caspiankeyes/LLMSecForge-arXiv-Publication)
+[![arXiv](https://img.shields.io/badge/arXiv-paper-00b5a1.svg)](https://github.com/caspiankeyes/AISecForge-arXiv-Publication)
 
-LLMSecForge is a comprehensive open-source framework for systematic adversarial testing, evaluation, and security hardening of large language models. This repository consolidates cutting-edge methodologies for identifying, classifying, and mitigating security vulnerabilities in frontier AI systems.
+AISecForge is a comprehensive open-source framework for systematic adversarial testing, evaluation, and security hardening of large language models. This repository consolidates cutting-edge methodologies for identifying, classifying, and mitigating security vulnerabilities in frontier AI systems.
 </div>
 
 ## Core Capabilities
