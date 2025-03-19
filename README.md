@@ -37,7 +37,7 @@ LLMSecForge/
 ```
 
 # LLMSecForge: Advanced Framework for AI Security Testing
-
+<div align="center">
 ![License](https://img.shields.io/badge/license-AGPL--3.0-blue.svg)
 ![Version](https://img.shields.io/badge/version-1.0.0-green.svg)
 ![Status](https://img.shields.io/badge/status-active-brightgreen.svg)
