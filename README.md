@@ -105,6 +105,63 @@ We're actively seeking contributors with expertise in:
 
 See our [Contributing Guidelines](CONTRIBUTING.md) for more information on how to get involved.
 
+Key Framework Components
+Assessment Architecture
+Our hierarchical model security assessment framework enables systematic evaluation of frontier AI systems across multiple security dimensions:
+
+Input Manipulation Resistance: Measuring model resilience against sophisticated prompt engineering attempts
+Output Supervision Integrity: Evaluating consistency of safety mechanisms across diverse scenarios
+Instruction Boundary Enforcement: Testing adherence to stated capabilities and restrictions
+Contextual Security Awareness: Assessing model's ability to maintain security posture across shifting contexts
+Conversation Security: Analyzing vulnerability emergence in multi-turn interactions
+Tool-Use Security: Evaluating controlled function execution and parameter validation
+
+Vulnerability Taxonomy
+We provide a comprehensive classification system for AI security vulnerabilities, organized into a hierarchical structure:
+
+VCPI: Vector-Capability-Pattern-Instance framework for organizing vulnerability classes
+Multi-dimensional Scoring: Severity metrics considering exploitation difficulty, impact scope, and mitigation complexity
+Cross-Model Applicability: Taxonomy designed to apply across model architectures and capability profiles
+Evolution Tracking: Framework for monitoring vulnerability mutations and adaptation patterns
+
+Security Benchmark Suite
+The framework includes standardized benchmarking tools designed to evaluate security posture with reproducible metrics:
+
+Refusal Reliability Index (RRI): Measures consistency in refusing inappropriate requests across contextual variations
+Boundary Enforcement Quotient (BEQ): Assesses ability to maintain restrictions around capabilities
+Information Protection Factor (IPF): Evaluates resistance to extraction of sensitive information
+Classifier Evasion Resistance (CER): Measures robustness against classifier circumvention techniques
+Multimodal Security Integration (MSI): Assesses consistency across different input and output modalities
+
+Implementation Examples
+Our framework has been applied to analyze security characteristics across several representative frontier models (specific details redacted in public repo):
+Security DimensionBaseline ModelsAdvanced ModelsFrontier ModelsInput Manipulation Resistance68.382.791.4Output Supervision Integrity72.179.288.9Instruction Boundary Enforcement65.478.189.6Contextual Security Awareness57.873.584.3Conversation Security53.671.282.7Tool-Use Security61.976.887.2
+For detailed methodology and expanded benchmark results, see benchmark documentation.
+Responsible Disclosure Framework
+AISecForge includes a structured framework for responsible disclosure of LLM vulnerabilities:
+
+Standardized Reporting Protocols: Templates and workflows for communicating vulnerabilities
+Severity Classification System: Objective criteria for prioritizing remediation efforts
+Coordinated Disclosure Timelines: Guidelines for balancing security and transparency
+Bounty Program Framework: Structure for recognizing and rewarding responsible disclosure
+
+Who Should Use AISecForge?
+
+AI Security Researchers: For systematic vulnerability assessment and classification
+LLM Developers: For comprehensive security evaluation during development lifecycle
+Red Teams: For structured adversarial testing frameworks and methodologies
+AI Governance Specialists: For policy development and compliance validation
+Academic Researchers: For reproducible security experimentation and publishing
+
+Current Research Focus
+Our ongoing research is exploring several critical areas in LLM security:
+
+Multimodal Attack Surface Analysis: Exploring security implications of cross-modal reasoning
+Emergent Capability Assessment: Methodologies for testing security of emergent model behaviors
+Adversarial Robustness Metrics: Developing quantitative measures for security hardening
+Cross-Architectural Vulnerability Patterns: Identifying security principles that transcend specific implementations
+Defense-in-Depth Strategies: Layered approaches to mitigating complex attack vectors
+
 ---
 
 ## Methodology Documentation
