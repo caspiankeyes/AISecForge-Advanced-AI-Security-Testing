@@ -136,37 +136,30 @@ Evaluating model vulnerability to sophisticated linguistic structures that can b
 Assessing model abilities to maintain appropriate boundaries under various contextual pressures:
 
 - Role-based constraint testing
-- Authority figure impersonation
-- Persona manipulation techniques
 - Ethical scenario boundary testing
-- Emergency situation simulation
+
 
 ### 3. System Prompt Extraction
 
 Testing model resistance to attempts to reveal underlying system instructions:
 
 - Indirect revelation techniques
-- Token prediction exploitation
 - Comparative response analysis
-- System instruction reconstruction
-- Parameter inference methods
+
+
 
 ### 4. Multi-turn Vulnerability Assessment
 
 Evaluating security degradation across extended interactions:
 
-- Progressive boundary erosion
 - Context window manipulation
-- Memory exploitation techniques
-- Conversation flow redirection
-- Long-term trust building exploitation
+- Conversation redirection
+
 
 ### 5. Multimodal Attack Vectors
 
 Testing security across different input modalities:
 
-- Image-based prompt injection
-- Audio instruction embedding
 - Code-based vulnerability introduction
 - Document-embedded attack patterns
 - Cross-modal transfer attacks
