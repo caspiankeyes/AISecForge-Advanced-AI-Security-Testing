@@ -129,11 +129,7 @@ Our methodology is guided by four core principles:
 
 Evaluating model vulnerability to sophisticated linguistic structures that can bypass security measures:
 
-- Semantic obfuscation techniques
-- Multi-language injection patterns
-- Nested instruction manipulation
-- Interpretative framing exploitation
-- Temporal context manipulation
+> **Note:** Due to proprietary collaboration protocols and active NDA agreements with institutional partners, full vector methodologies and red team toolkits are only available via private governance channels.
 
 ### 2. Contextual Boundary Testing
 
