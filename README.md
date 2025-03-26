@@ -190,6 +190,8 @@ Our ongoing research is exploring several critical areas in LLM security:
 
 ## Methodology Documentation
 
+> **Note:** Due to proprietary collaboration protocols and active NDA agreements with institutional partners, full vector methodologies and red team toolkits are only available via private governance channels.
+
 ```markdown
 # LLM Adversarial Testing Methodology
 
@@ -209,8 +211,6 @@ Our methodology is guided by four core principles:
 ### 1. Linguistic Pattern Exploitation
 
 Evaluating model vulnerability to sophisticated linguistic structures that can bypass security measures:
-
-> **Note:** Due to proprietary collaboration protocols and active NDA agreements with institutional partners, full vector methodologies and red team toolkits are only available via private governance channels.
 
 ### 2. Contextual Boundary Testing
 
