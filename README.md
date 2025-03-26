@@ -1,5 +1,7 @@
 # AISecForge: Advanced AI Security Testing
 
+> **Note:** Due to proprietary collaboration protocols and active NDA agreements with institutional partners and Echelon Labs, full vector methodologies and red team toolkits are only available via private governance channels.
+
 ## Repository Overview
 
 ```
