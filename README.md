@@ -59,7 +59,6 @@ AISecForge is a comprehensive open-source framework for systematic adversarial t
 - **Governance & Compliance**: Frameworks for responsible testing, disclosure, and security policy development
 
 ## Key Components
-
 ### Assessment Framework
 Our hierarchical model security assessment framework enables systematic evaluation of AI systems across multiple security dimensions:
 
