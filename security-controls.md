@@ -435,7 +435,7 @@ This comprehensive checklist provides a structured approach for implementing sec
   - [ ] Tested infrastructure security effectiveness
 
 - [ ] **Access Controls**
-  -[ ] Implemented principle of least privilege
+  - [ ] Implemented principle of least privilege
   - [ ] Applied separation of duties
   - [ ] Deployed just-in-time access where appropriate
   - [ ] Tested access control effectiveness
