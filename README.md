@@ -1,6 +1,7 @@
 # AISecForge: Advanced AI Security Testing
 
-> **Note:** Proprietary collaboration protocols and active NDA agreements with institutional partners and Echelon Labs have ended. Full vector methodologies and red team toolkits are now available.
+> **Note:** Proprietary collaboration protocols and active NDA agreements with institutional partners and Echelon Labs have ended.
+> > Full vector methodologies and red team toolkits are now available.
 # AISecForge: Advanced Framework for AI Security Testing
 
 <div align="center">
