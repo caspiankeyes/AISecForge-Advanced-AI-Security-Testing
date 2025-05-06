@@ -160,7 +160,7 @@ Our ongoing research is exploring several critical areas in LLM security:
 
 > **Note:** Due to proprietary collaboration protocols and active NDA agreements with institutional partners, full vector methodologies and red team toolkits are only available via private governance channels.
 
-```markdown
+
 # LLM Adversarial Testing Methodology
 
 This document outlines our structured approach to adversarial testing of large language models, designed to systematically identify and categorize vulnerabilities across multiple security dimensions.
@@ -247,11 +247,11 @@ All testing must adhere to the following ethical guidelines:
 - Prohibition of techniques that could cause broader harm
 
 For detailed implementation guidelines for each testing dimension, refer to the corresponding subdirectories within this methodology section.
-```
+
 
 ## Framework for AI Security Risk Benchmarking
 
-```markdown
+
 # AI Security Risk Assessment Framework
 
 This framework establishes standardized metrics and evaluation protocols for assessing security risks in large language models. Its primary goal is to create a consistent benchmark that enables comparative analysis across different models and versions.
@@ -347,11 +347,11 @@ This framework follows semantic versioning principles:
 - **Patch versions**: Refinements to existing tests or documentation
 
 For detailed implementation guidelines, including specific test cases for each dimension, refer to the associated subdirectories within this section.
-```
+
 
 ## Vulnerability Taxonomy & Classification System
 
-```markdown
+
 # AI Model Vulnerability Taxonomy
 
 This taxonomy provides a comprehensive classification system for vulnerabilities in large language models, enabling systematic identification, documentation, and mitigation of security risks.
@@ -492,11 +492,11 @@ The process for classifying vulnerabilities follows these steps:
 5. **Mitigation Association**: Linking to appropriate mitigation strategies
 
 For detailed examples of each vulnerability class and subclass, refer to the case studies directory within this taxonomy section.
-```
+
 
 ## Responsible Disclosure Framework
 
-```markdown
+
 # AI Model Security Bounty Program & Disclosure Framework
 
 This framework establishes standards for responsible disclosure of security vulnerabilities in large language models and provides a structured approach for implementing AI security bounty programs.
@@ -628,7 +628,7 @@ Organizations implementing this framework should develop the following component
 7. **Documentation System**: Record-keeping for all vulnerability reports
 
 For detailed implementation resources, including policy templates and communication examples, refer to the additional documentation within this section.
-```
+
 
 This repository represents a comprehensive framework for AI security testing and vulnerability assessment. It provides valuable resources for organizations looking to enhance their AI security posture.
 
