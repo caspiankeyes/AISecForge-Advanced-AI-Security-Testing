@@ -4,11 +4,13 @@
 # AISecForge: Advanced Framework for AI Security Testing
 
 <div align="center">
-    
-![License](https://img.shields.io/badge/license-AGPL--3.0-blue.svg)
-![Version](https://img.shields.io/badge/version-1.0.0-green.svg)
-![Status](https://img.shields.io/badge/status-active-brightgreen.svg)
-[![arXiv](https://img.shields.io/badge/arXiv-paper-00b5a1.svg)](https://github.com/caspiankeyes/AISecForge-arXiv-Publication)
+
+
+
+![Status](https://img.shields.io/badge/Status-Recursive%20Security-crimson) [![License: PolyForm NC](https://img.shields.io/badge/License-PolyForm-lime.svg)](https://polyformproject.org/licenses/noncommercial/1.0.0/) [![LICENSE: CC BY-NC-ND 4.0](https://img.shields.io/badge/Content-CC--BY--NC--ND-turquoise.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/) ![Version](https://img.shields.io/badge/Version-0.1.0--alpha-purple)
+
+
+
 </div>
 
 
