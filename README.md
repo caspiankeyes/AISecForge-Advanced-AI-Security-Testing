@@ -2,42 +2,6 @@
 
 > **Note:** Proprietary collaboration protocols and active NDA agreements with institutional partners and Echelon Labs have ended. Full vector methodologies and red team toolkits are now available.
 
-## Repository Overview
-
-```
-AISecForge/
-├── README.md
-├── CONTRIBUTING.md
-├── CODE_OF_CONDUCT.md
-├── LICENSE
-├── docs/
-│   ├── methodology/
-│   ├── taxonomy/
-│   ├── case-studies/
-│   └── governance/
-├── frameworks/
-│   ├── assessment/
-│   ├── benchmarking/
-│   └── disclosure/
-├── techniques/
-│   ├── linguistic/
-│   ├── contextual/
-│   ├── multimodal/
-│   └── hybrid/
-├── tools/
-│   ├── scanners/
-│   ├── harnesses/
-│   └── analyzers/
-├── research/
-│   ├── publications/
-│   ├── vulnerabilities/
-│   └── trends/
-└── resources/
-    ├── training/
-    ├── checklists/
-    └── templates/
-```
-
 # AISecForge: Advanced Framework for AI Security Testing
 
 <div align="center">
