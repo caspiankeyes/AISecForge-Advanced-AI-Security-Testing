@@ -1,7 +1,6 @@
 # AISecForge: Advanced AI Security Testing
+> **IMPORTANT**: This repository is intended for legitimate security research and AI safety advancement. All methodologies documented herein are for ethical research purposes only.
 
-> **Note:** Proprietary collaboration protocols and active NDA agreements with institutional partners and Echelon Labs have ended.
-> > Full vector methodologies and red team toolkits are now available.
 # AISecForge: Advanced Framework for AI Security Testing
 
 <div align="center">
