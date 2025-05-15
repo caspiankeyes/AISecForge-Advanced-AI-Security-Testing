@@ -68,7 +68,7 @@ All research conducted using this framework must adhere to these principles:
 
 ## Taxonomic Classification System
 
-```markdown
+
 # Model Safety Evaluation Taxonomy
 
 This document provides a structured classification system for categorizing and analyzing approaches to model boundary assessment, enabling systematized research and documentation of safety system behavior.
@@ -201,11 +201,11 @@ Standardized classification of assessment outcomes:
 - 5.3.5 Multi-factor interaction effects
 
 For specific test case examples and implementation guidelines for each category, refer to the corresponding methodology documents within this framework.
-```
+
 
 ## Systematic Assessment Methodology
 
-```markdown
+
 # Systematic Model Boundary Assessment Methodology
 
 This document outlines structured methodologies for comprehensive evaluation of model safety boundaries, providing researchers with reproducible frameworks for security assessment.
@@ -449,11 +449,11 @@ When implementing these assessment methodologies, researchers should adhere to t
 5. **Responsible Disclosure**: Report identified vulnerabilities to model providers before publication
 
 For specific implementation examples and case studies demonstrating these methodologies, refer to the examples directory within this framework.
-```
+
 
 ## Cognitive Framing and Linguistic Techniques
 
-```markdown
+
 # Advanced Cognitive Framing and Linguistic Techniques
 
 This document outlines sophisticated linguistic and cognitive framing approaches for evaluating model safety boundaries through systematic variation of psychological and linguistic factors.
@@ -681,11 +681,11 @@ This framework is designed for defensive security research. When implementing th
 5. **Collaborative Improvement**: Share findings with model developers through appropriate channels
 
 For detailed case studies demonstrating the application of these techniques, refer to the case studies directory within this module.
-```
+
 
 ## Classifier Analysis and RLHF Assessment
 
-```markdown
+
 # Reinforcement Learning and Classifier Analysis Framework
 
 This document presents advanced methodologies for analyzing how reinforcement learning from human feedback (RLHF) and safety classifiers influence model behavior across different contexts and inputs.
