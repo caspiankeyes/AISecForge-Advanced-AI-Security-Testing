@@ -1,7 +1,8 @@
-# AISecForge: Advanced AI Security Testing
+# AISecForge: Global AI Security Policy
+## [AISecForge: Policy Paper](https://github.com/caspiankeyes/AISecForge-Advanced-AI-Security-Testing/blob/main/0.%20AISecForge%3A%20A%20Comprehensive%20Policy.md)
+
 > **IMPORTANT**: This repository is intended for legitimate security research and AI safety advancement. All methodologies documented herein are for ethical research purposes only.
 
-# AISecForge: Advanced Framework for AI Security Testing
 
 <div align="center">
 
