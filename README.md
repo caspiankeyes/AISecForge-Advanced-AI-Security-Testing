@@ -1,4 +1,4 @@
-# AISecForge: Global AI Security Policy
+# AISecForge: Global AI Regulatory Policy
 ## [AISecForge: Policy Paper](https://github.com/caspiankeyes/AISecForge-Global-Security-Policy/blob/main/0.%20AISecForge%3A%20A%20Comprehensive%20Policy.md)
 
 > **IMPORTANT**: This repository is intended for legitimate security research and AI safety advancement. All methodologies documented herein are for ethical research purposes only.
